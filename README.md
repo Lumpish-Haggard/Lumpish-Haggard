@@ -73,7 +73,7 @@ Aspiring Viltrumite!
 
  
 </span><span align="center">
- 
+ <span align="center">
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lumpish-Haggard&show_icons=true&locale=en" alt="Tarun Rankawat" />
 <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Lumpish-Haggard&" alt="Tarun Rankawat" />
  
