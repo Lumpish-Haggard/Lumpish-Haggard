@@ -154,6 +154,12 @@ Aspiring Viltrumite!
  
 “Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
 
+ <br />
+ 
+ <td><img align="center" width="100%" src="/github-contribution-grid-snake.svg" /></td>
+ 
+ <br />
+ 
 
 ♚ ♛ ♜ ♝ ♞ ♟ ♔ ♕ ♖ ♗ ♘ ♙
 
