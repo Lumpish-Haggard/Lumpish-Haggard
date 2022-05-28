@@ -50,8 +50,6 @@ Aspiring Viltrumite!
 <br />
  <br />
  🌱 I’m currently learning Unity & Unreal Engine.
- 
-<br/><br/>
 
  👯 I’m always up for a challange!, give me a holla! 
  
@@ -152,9 +150,7 @@ Aspiring Viltrumite!
  
  <hr />
  
-“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob
-
- <br />
+“Master programmers think of systems as stories to be told rather than programs to be written” - Robert C. Martin, aka, Uncle Bob <br//>
  
  <td><img align="center" width="100%" src="/github-contribution-grid-snake.svg" /></td>
  
