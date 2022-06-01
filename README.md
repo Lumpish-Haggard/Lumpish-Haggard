@@ -86,7 +86,7 @@ Aspiring Viltrumite!
 <a href="https://www.facebook.com/LumpishHaggard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Tarun Rankawat" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lumpish_haggard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tarun Rankawat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/user/TarunRankawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tarun Rankawat" height="30" width="40" /></a>
-<a href="mailto:tarunrankawat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Tarun Rankawat" height="30" width="40" /></a>
+<a href="mailto:tarunrankawat@gmail.com" target="blank"><img align="center" src="https://www.gstatic.com/images/branding/product/1x/hh_gmail_64dp.png" alt="Tarun Rankawat" height="30" width="40" /></a>
 <a href="Lumpish_Haggard#4511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tarun Rankawat" height="30" width="40" /></a>
 </p>
 <br/>
