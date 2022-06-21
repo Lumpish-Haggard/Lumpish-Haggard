@@ -31,7 +31,7 @@
  <br /><br/>
 
 <br />
-<h1>Hello World, my name is Tarun </h1>
+<h1>Hello World, My Name is Tarun </h1>
 </span>
 <span align="center">
 <br />
