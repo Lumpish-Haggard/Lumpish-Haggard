@@ -3,7 +3,7 @@
 <br />
 <h1><img src="https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1250&lines=Hi+%F0%9F%91%8B%2C+I'm+(lumpish_haggard)+Tarun+Rankawat" /></h1>
 <br />
-<h3><p style="font-family:cursive;"&size=40&color=3FF70E&center=true&vCenter=true&width=1250&lines=A+Passionate+Game+Nomad+and+Creative+Problem+Solver." /></h3>
+<h3><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&color=3FF70E&center=true&vCenter=true&width=1250&lines=A+Passionate+Game+Nomad+and+Creative+Problem+Solver." /></h3>
 </span>
 <span align="center">
 
